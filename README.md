@@ -1,5 +1,7 @@
 # untitled
 
+Basic vuetify demo project. Includes components such as nav bar, vuetify table, cards, a calculator etc.
+
 ## Project setup
 ```
 npm install
